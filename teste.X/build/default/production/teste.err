@@ -1,0 +1,6 @@
+Warning[202] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 40 : Argument out of range.  Least significant bits used.
+Warning[203] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 53 : Found opcode in column 1. (return)
+Message[302] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 64 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 66 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 71 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\JOSEN\MPLABXPROJECTS\RODERVAL\TESTE.X\TESTE.ASM 92 : Found directive in column 1. (end)
